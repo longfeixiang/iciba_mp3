@@ -7,6 +7,6 @@
   "license": "MIT",
   "dependencies": {
     "gridfs-stream": "^1.1.1",
-    "mongoose": "^5.7.1"
+    "mongoose": "^5.7.5"
   }
 }
